@@ -1,0 +1,43 @@
+[33mcommit 30c5b9c9812985b8340f5a2a05a7e7682e7781ec[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kevin Sun <159496424+Kevinkidsss@users.noreply.github.com>
+Date:   Sun Sep 22 22:08:16 2024 +0000
+
+    Add screenshot to readme.md
+
+[33mcommit 94f5d603e5efdfd938e5afe33459b41465b9d54a[m
+Merge: 0a26b7b 10132df
+Author: Kevin Sun <159496424+Kevinkidsss@users.noreply.github.com>
+Date:   Sun Sep 22 20:47:49 2024 +0000
+
+    Merge branch 'main' of https://github.com/UCSF-DataSci/ds-217-02-git-Kevinkidsss
+
+[33mcommit 0a26b7b04e84751795aeccff0a5f896e6e2d8cd6[m
+Author: Kevin Sun <159496424+Kevinkidsss@users.noreply.github.com>
+Date:   Sun Sep 22 20:43:17 2024 +0000
+
+    Add Assignment 1 and Assignment 2 files
+
+[33mcommit f8665c59c5d290c2c591cd6c75ac6067cfa44937[m
+Author: Kevin Sun <159496424+Kevinkidsss@users.noreply.github.com>
+Date:   Sun Sep 22 20:37:52 2024 +0000
+
+    Add Assignment 1.py and create readme.md
+
+[33mcommit 10132dffbdf114cdea886dccda2e244d553d0a7a[m
+Author: Kevin Sun <159496424+Kevinkidsss@users.noreply.github.com>
+Date:   Sun Sep 22 13:30:10 2024 -0700
+
+    Add files via upload
+
+[33mcommit 15e0f2c6eb4bc87dfa0c0296c835bd4b161026be[m
+Author: christopherseaman <86775+christopherseaman@users.noreply.github.com>
+Date:   Wed Sep 18 10:29:22 2024 -0700
+
+    Assignment specifics
+
+[33mcommit ea7a26d0569a2f0246d11d836bf14ca323f43932[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Sun Sep 8 20:50:17 2024 +0000
+
+    Initial commit
+git show 
